@@ -19,6 +19,11 @@
       "id": 4,
       "name": "Bolo de Amendoim",
       "ingredients": ["laranja", "ovo", "açúcar", "farinha de trigo"]
+    },
+        {
+      "id": 5,
+      "name": "Bolo de coco",
+      "ingredients": ["coco", "ovo", "açúcar", "farinha de trigo"]
     }
   ]
 }
