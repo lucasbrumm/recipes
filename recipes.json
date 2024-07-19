@@ -1,4 +1,4 @@
-
+{
   "recipes": [
     {
       "id": 1,
@@ -21,4 +21,4 @@
       "ingredients": ["laranja", "ovo", "açúcar", "farinha de trigo"]
     }
   ]
-
+}
