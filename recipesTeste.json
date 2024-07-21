@@ -1,35 +1,43 @@
 {
-    "recipes": [
-        {
-            "id": 1,
-            "name": "Bolo de cenoura",
-            "ingredients": "[
-                {
-                    \"ingredient\": \"Ovo\",
-                    \"count\": \"3un\"
-                },
-                {
-                    \"ingredient\": \"Açúcar\",
-                    \"count\": \"275g\"
-                },
-                {
-                    \"ingredient\": \"Óleo de soja\",
-                    \"count\": \"209g ou 150ml\"
-                },
-                {
-                    \"ingredient\": \"Cenoura cozida\",
-                    \"count\": \"200g\"
-                },
-                {
-                    \"ingredient\": \"Farinha de trigo\",
-                    \"count\": \"200g\"
-                },
-                {
-                    \"ingredient\": \"Fermento em pó\",
-                    \"count\": \"15g\"
-                },
-            ]",
-            "directions": "Quebrar os ovos no liquidificador, Adicionar o açúcar e o óleo, Adicionar a cenoura cozida e bater por 2 a 3 minutos, Em uma tigela separada adicione a farinha de trigo e a mistura do liquidificador, Adicione o fermento em pó e mexa levemente, Colocar em uma forma untada, Colocar no forno pré-aquecido a 180 graus por 25 a 30 minutos",
-        }
-    ]
+  "recipes": [
+      {
+          "id": 1,
+          "name": "Bolo de cenoura",
+          "ingredients": [
+              {
+                  "ingredient": "Ovo",
+                  "count": "3un"
+              },
+              {
+                  "ingredient": "Açúcar",
+                  "count": "275g"
+              },
+              {
+                  "ingredient": "Óleo de soja",
+                  "count": "209g ou 150ml"
+              },
+              {
+                  "ingredient": "Cenoura cozida",
+                  "count": "200g"
+              },
+              {
+                  "ingredient": "Farinha de trigo",
+                  "count": "200g"
+              },
+              {
+                  "ingredient": "Fermento em pó",
+                  "count": "15g"
+              }
+          ],
+          "directions": [
+            "Quebrar os ovos no liquidificador",
+            "Adicionar o açúcar e o óleo",
+            "Adicionar a cenoura cozida e bater por 2 a 3 minutos", 
+            "Em uma tigela separada adicione a farinha de trigo e a mistura do liquidificador", 
+            "Adicione o fermento em pó e mexa levemente", 
+            "Colocar em uma forma untada", 
+            "Colocar no forno pré-aquecido a 180 graus por 25 a 30 minutos"
+          ]
+      }
+  ]
 }
