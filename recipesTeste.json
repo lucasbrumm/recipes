@@ -38,6 +38,118 @@
             "Colocar em uma forma untada", 
             "Colocar no forno pré-aquecido a 180 graus por 25 a 30 minutos"
           ]
-      }
+      },
+      {
+        "id": 2,
+        "name": "Cookies de bolinha",
+        "ingredients": [
+            {
+                "ingredient": "Manteiga sem sal",
+                "count": "100g"
+            },
+            {
+                "ingredient": "Açúcar mascavo",
+                "count": "150g"
+            },
+            {
+                "ingredient": "Açúcar refinado",
+                "count": "120g"
+            },
+            {
+                "ingredient": "Ovo",
+                "count": "1un"
+            },
+            {
+                "ingredient": "Bicabornato de sódio",
+                "count": "1 colher de chá"
+            },
+            {
+                "ingredient": "Essência de baunilha",
+                "count": "1 colher de sopa"
+            },
+            {
+                "ingredient": "Fermento em pó",
+                "count": "1 colher de sopa"
+            },
+            {
+                "ingredient": "Farinha de trigo",
+                "count": "180g"
+            },
+            {
+                "ingredient": "Gotas de chocolate meio amargo",
+                "count": "250g"
+            }
+        ],
+        "directions": [
+          "Em uma panela derreter a manteiga até ficar na cor mais escura",
+          "Em uma tijela separada colocar a manteiga e jogar os açúcares",
+          "Mexer até que fique homogêneo", 
+          "Acrescentar o ovo, bicabornato e a baunilha", 
+          "Mexer até que fique homogêneo",
+          "Acrescentar o trigo e mexer", 
+          "Colocar as gotas de chocolate e por último o fermento em pó", 
+          "Embale em plástico filme e deixar gelar por 20 minutos no congelador.", 
+          "Fazer bolinhas separadas e assar em um forno pré aquecido a 220ºC por 12 a 15 minutos."
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Brownie americano",
+        "ingredients": [
+            {
+                "ingredient": "Manteiga sem sal",
+                "count": "115g"
+            },
+            {
+                "ingredient": "Chocolate amargo",
+                "count": "200g"
+            },
+            {
+                "ingredient": "Açúcar",
+                "count": "180g"
+            },
+            {
+                "ingredient": "Açúcar mascavo",
+                "count": "200g"
+            },
+            {
+                "ingredient": "Ovo",
+                "count": "3un"
+            },
+            {
+                "ingredient": "Farinha de trigo",
+                "count": "60g"
+            },
+            {
+                "ingredient": "Chocolate em pó",
+                "count": "30g"
+            },
+            {
+                "ingredient": "Sal(Opcional)",
+                "count": "1 colher de chá"
+            },
+            {
+                "ingredient": "Essência de baunilha(Opcional)",
+                "count": "10g"
+            },
+            {
+                "ingredient": "Nozes picadas",
+                "count": "50g"
+            }
+        ],
+        "directions": [
+          "Pré aquecer o forno a 180°C",
+          "Derreter a manteiga e o chocolate em um recipiente",
+          "Em uma tigela separada colocar os açúcares e misturar", 
+          "Adicionar um ovo de cada vez e mexer bastante até obter uma mistura esbranquiçada", 
+          "Acrescentar o chocolate derretido de pouco a pouco para não cozinhar os ovos e misturar", 
+          "Acrescentar o extrato de baunilha", 
+          "Em outra tijela colocar o chocolate, farinha e o sal e misturar",
+          "Adicionar a massa passando por uma peneira e misturar",
+          "Adicionar as nozes e misturar",
+          "Adicionar a massa em uma forma já forrada com papel manteiga",
+          "Assar por 28 minutos"
+        ]
+    }
   ]
 }
