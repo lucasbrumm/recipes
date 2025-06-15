@@ -5,28 +5,42 @@
           "name": "Bolo de cenoura",
           "ingredients": [
               {
-                  "ingredient": "Ovo",
-                  "count": "3un"
+                  "name": "Ovo",
+                  "quantity": "3",
+                  "unit": "un"
               },
               {
-                  "ingredient": "Açúcar",
-                  "count": "275g"
+                  "name": "Açúcar",
+                  "quantity": "275",
+                  "unit": "g"
               },
               {
-                  "ingredient": "Óleo de soja",
-                  "count": "209g ou 150ml"
+                  "name": "Óleo de soja",
+                  "units": [
+                    {
+                      "unit": "g",
+                      "quantity": "209"
+                    },
+                    {
+                      "unit": "ml",
+                      "quantity": "150"
+                    }
+                  ]
               },
               {
-                  "ingredient": "Cenoura cozida",
-                  "count": "200g"
+                  "name": "Cenoura cozida",
+                  "quantity": "200",
+                  "unit": "g"
               },
               {
-                  "ingredient": "Farinha de trigo",
-                  "count": "200g"
+                  "name": "Farinha de trigo",
+                  "quantity": "200",
+                  "unit": "g"
               },
               {
-                  "ingredient": "Fermento em pó",
-                  "count": "15g"
+                  "name": "Fermento em pó",
+                  "quantity": "15",
+                  "unit": "g"
               }
           ],
           "directions": [
@@ -44,40 +58,49 @@
         "name": "Cookies de bolinha",
         "ingredients": [
             {
-                "ingredient": "Manteiga sem sal",
-                "count": "100g"
+                "name": "Manteiga sem sal",
+                "quantity": "100",
+                "unit": "g"
             },
             {
-                "ingredient": "Açúcar mascavo",
-                "count": "150g"
+                "name": "Açúcar mascavo",
+                "quantity": "150",
+                "unit": "g"
             },
             {
-                "ingredient": "Açúcar refinado",
-                "count": "120g"
+                "name": "Açúcar refinado",
+                "quantity": "120",
+                "unit": "g"
             },
             {
-                "ingredient": "Ovo",
-                "count": "1un"
+                "name": "Ovo",
+                "quantity": "1",
+                "unit": "un"
             },
             {
-                "ingredient": "Bicabornato de sódio",
-                "count": "1 colher de chá"
+                "name": "Bicabornato de sódio",
+                "quantity": "1",
+                "unit": "colher de chá"
             },
             {
-                "ingredient": "Essência de baunilha",
-                "count": "1 colher de sopa"
+                "name": "Essência de baunilha",
+                "quantity": "1",
+                "unit": "colher de sopa"
             },
             {
-                "ingredient": "Fermento em pó",
-                "count": "1 colher de sopa"
+                "name": "Fermento em pó",
+                "quantity": "1",
+                "unit": "colher de sopa"
             },
             {
-                "ingredient": "Farinha de trigo",
-                "count": "180g"
+                "name": "Farinha de trigo",
+                "quantity": "180",
+                "unit": "g"
             },
             {
-                "ingredient": "Gotas de chocolate meio amargo",
-                "count": "250g"
+                "name": "Gotas de chocolate meio amargo",
+                "quantity": "250",
+                "unit": "g"
             }
         ],
         "directions": [
@@ -97,44 +120,54 @@
         "name": "Brownie americano",
         "ingredients": [
             {
-                "ingredient": "Manteiga sem sal",
-                "count": "115g"
+                "name": "Manteiga sem sal",
+                "quantity": "115",
+                "unit": "g"
             },
             {
-                "ingredient": "Chocolate amargo",
-                "count": "200g"
+                "name": "Chocolate amargo",
+                "quantity": "200",
+                "unit": "g"
             },
             {
-                "ingredient": "Açúcar",
-                "count": "180g"
+                "name": "Açúcar",
+                "quantity": "180",
+                "unit": "g"
             },
             {
-                "ingredient": "Açúcar mascavo",
-                "count": "90g"
+                "name": "Açúcar mascavo",
+                "quantity": "90",
+                "unit": "g"
             },
             {
-                "ingredient": "Ovo",
-                "count": "3un"
+                "name": "Ovo",
+                "quantity": "3",
+                "unit": "un"
             },
             {
-                "ingredient": "Farinha de trigo",
-                "count": "60g"
+                "name": "Farinha de trigo",
+                "quantity": "60",
+                "unit": "g"
             },
             {
-                "ingredient": "Chocolate em pó",
-                "count": "30g"
+                "name": "Chocolate em pó",
+                "quantity": "30",
+                "unit": "g"
             },
             {
-                "ingredient": "Sal(Opcional)",
-                "count": "1 colher de chá"
+                "name": "Sal(Opcional)",
+                "quantity": "1",
+                "unit": "colher de chá"
             },
             {
-                "ingredient": "Essência de baunilha(Opcional)",
-                "count": "10g"
+                "name": "Essência de baunilha(Opcional)",
+                "quantity": "10",
+                "unit": "g"
             },
             {
-                "ingredient": "Nozes picadas",
-                "count": "50g"
+                "name": "Nozes picadas",
+                "quantity": "50",
+                "unit": "g"
             }
         ],
         "directions": [
