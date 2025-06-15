@@ -1,59 +1,59 @@
 {
   "recipes": [
-      {
-          "id": 1,
-          "name": "Bolo de cenoura",
-          "ingredients": [
-              {
-                  "name": "Ovo",
-                  "quantity": "3",
-                  "unit": "un"
-              },
-              {
-                  "name": "Açúcar",
-                  "quantity": "275",
-                  "unit": "g"
-              },
-              {
-                  "name": "Óleo de soja",
-                  "units": [
-                    {
-                      "unit": "g",
-                      "quantity": "209"
-                    },
-                    {
-                      "unit": "ml",
-                      "quantity": "150"
-                    }
-                  ]
-              },
-              {
-                  "name": "Cenoura cozida",
-                  "quantity": "200",
-                  "unit": "g"
-              },
-              {
-                  "name": "Farinha de trigo",
-                  "quantity": "200",
-                  "unit": "g"
-              },
-              {
-                  "name": "Fermento em pó",
-                  "quantity": "15",
-                  "unit": "g"
-              }
-          ],
-          "directions": [
-            "Quebrar os ovos no liquidificador",
-            "Adicionar o açúcar e o óleo",
-            "Adicionar a cenoura cozida e bater por 2 a 3 minutos", 
-            "Em uma tigela separada adicione a farinha de trigo e a mistura do liquidificador", 
-            "Adicione o fermento em pó e mexa levemente", 
-            "Colocar em uma forma untada", 
-            "Colocar no forno pré-aquecido a 180 graus por 25 a 30 minutos"
-          ]
-      },
-      {
+    {
+        "id": 1,
+        "name": "Bolo de cenoura",
+        "ingredients": [
+            {
+                "name": "Ovo",
+                "quantity": "3",
+                "unit": "un"
+            },
+            {
+                "name": "Açúcar",
+                "quantity": "275",
+                "unit": "g"
+            },
+            {
+                "name": "Óleo de soja",
+                "units": [
+                {
+                    "unit": "g",
+                    "quantity": "209"
+                },
+                {
+                    "unit": "ml",
+                    "quantity": "150"
+                }
+                ]
+            },
+            {
+                "name": "Cenoura cozida",
+                "quantity": "200",
+                "unit": "g"
+            },
+            {
+                "name": "Farinha de trigo",
+                "quantity": "200",
+                "unit": "g"
+            },
+            {
+                "name": "Fermento em pó",
+                "quantity": "15",
+                "unit": "g"
+            }
+        ],
+        "directions": [
+        "Quebrar os ovos no liquidificador",
+        "Adicionar o açúcar e o óleo",
+        "Adicionar a cenoura cozida e bater por 2 a 3 minutos", 
+        "Em uma tigela separada adicione a farinha de trigo e a mistura do liquidificador", 
+        "Adicione o fermento em pó e mexa levemente", 
+        "Colocar em uma forma untada", 
+        "Colocar no forno pré-aquecido a 180 graus por 25 a 30 minutos"
+        ]
+    },
+    {
         "id": 2,
         "name": "Cookies de bolinha",
         "ingredients": [
@@ -182,6 +182,64 @@
           "Adicionar as nozes e misturar",
           "Adicionar a massa em uma forma já forrada com papel manteiga",
           "Assar por 28 minutos"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Arroz Doce Cremoso",
+        "ingredients": [
+            {
+                "name": "Arroz",
+                "quantity": "1 e 1/2",
+                "unit": "xícara"
+            },
+            {
+                "name": "Água",
+                "quantity": "2 e 1/2",
+                "unit": "xícara"
+            },
+            {
+                "name": "Leite",
+                "quantity": "2",
+                "unit": "L"
+            },
+            {
+                "name": "Açúcar",
+                "quantity": "1",
+                "unit": "xícara"
+            },
+            {
+                "name": "Baunilha",
+                "quantity": "2",
+                "unit": "colheres de sopa"
+            },
+            {
+                "name": "Canela em pó",
+                "quantity": "1",
+                "unit": "colher de sopa"
+            },
+            {
+                "name": "Leite condensado",
+                "quantity": "1",
+                "unit": "lata"
+            },
+            {
+                "name": "Creme de leite",
+                "quantity": "1",
+                "unit": "lata"
+            },
+            {
+                "name": "Creme de leite",
+                "quantity": "1",
+                "unit": "lata"
+            }
+        ],
+        "directions": [
+            "Coloque a água o arroz e a canela e deixe ferver até secar a água.",
+            "Após coloque o leite, a baunilha, o açúcar e o leite condensado, mexendo sempre.",
+            "Deixe ferver por 15 minutos e coloque o creme de leite, mexa.",
+            "Ferva por mais 5 minutos e pronto.",
+            "Polvilhe com canela."
         ]
     }
   ]
